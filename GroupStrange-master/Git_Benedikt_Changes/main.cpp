@@ -6,5 +6,6 @@ int main()
 {
     cout << "Er thetta kodinn eda er eg ad baeta thessu vid kodann. Svor oskast ;-)" << endl;
     cout << "virkar kallinn." << endl;
+    cout << "Ahugavert" << endl;
     return 0;
 }
